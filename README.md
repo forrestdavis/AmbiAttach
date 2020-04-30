@@ -1,4 +1,4 @@
-# Ambi_Attach
+# AmbiAttach
 Project for interpreting RNN LM syntactic knowledge using ambiguous relative clause attachment in English and Spanish. 
 
 ### Dependencies
