@@ -6,7 +6,7 @@ Requires the following python packages (available through pip):
 * [pytorch](https://pytorch.org/) v1.0.0
 
 ### Quick Usage
-One English and one Spanish model are already in the models directory (due to space). The others can be found [here](https://zenodo.org/record/3778994#.X6wfxnVKj3A). 
+Due to file size constraints on github all models can be found [here](https://zenodo.org/record/3778994#.X6wfxnVKj3A). 
 
 To get by-word compelxity results
 
