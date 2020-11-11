@@ -1,3 +1,3 @@
-models/en_models/*
-models/es_models/*
+models/en_models/*.pt
+models/es_models/*.pt
 __pycache*
