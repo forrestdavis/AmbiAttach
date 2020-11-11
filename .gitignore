@@ -1,2 +1,3 @@
 models/en_models/*
 models/es_models/*
+__pycache*
